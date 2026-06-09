@@ -1,5 +1,4 @@
 <div align="center">
-  <img width="800px" src="https://github.com/Hyehyun1001/Hyehyun1001/blob/master/logo_unscreen.gif" />
   <p align='center'>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=eec5b9&fontColor=ffffff&height=200&section=header&text=Hyhyun's%20Github&fontSize=65&animation=fadeIn&fontAlignY=38"/>
   </p>
@@ -9,7 +8,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyehyun1001&layout=compact&theme=transparent" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Hyehyun1001&layout=compact&theme=transparent&count_private=true" />
 </div>
 
 <br>
@@ -30,6 +29,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Google%20Gemini-8E75C2.svg?style=for-the-badge&logo=googlegemini&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Claude-D97756.svg?style=for-the-badge&logo=claude&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/ChatGPT-412991.svg?style=for-the-badge&logo=openai&logoColor=white" />&nbsp
 </div>
 
 <br>
