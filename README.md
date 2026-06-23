@@ -29,7 +29,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Google%20Gemini-8E75C2.svg?style=for-the-badge&logo=googlegemini&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Claude-D97756.svg?style=for-the-badge&logo=claude&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/ChatGPT-412991.svg?style=for-the-badge&logo=openai&logoColor=white" />&nbsp
 </div>
 
 <br>
